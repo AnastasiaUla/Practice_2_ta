@@ -9,7 +9,7 @@ B -> bC | λ
 C -> bB
 ```
 
-Файл JFLAP: [`regular-grammar.jff`](./regular-grammar.jff).
+Файл JFLAP: [`regular-grammar.jff`](./regular_grammar.jff).
 
 Эквивалентное регулярное выражение:
 
